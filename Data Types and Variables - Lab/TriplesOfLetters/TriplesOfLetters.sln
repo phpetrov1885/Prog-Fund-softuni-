@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriplesOfLetters", "TriplesOfLetters.csproj", "{EAF683CC-CB79-4D88-A6D7-58FB24B73EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF683CC-CB79-4D88-A6D7-58FB24B73EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF683CC-CB79-4D88-A6D7-58FB24B73EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF683CC-CB79-4D88-A6D7-58FB24B73EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF683CC-CB79-4D88-A6D7-58FB24B73EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {382FCBD6-F9B7-4C03-97C3-96B3F3657925}
+	EndGlobalSection
+EndGlobal
